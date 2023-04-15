@@ -23,6 +23,10 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 ---
 - [Vercel Integration](https://github.com/AgileEyes/integration-vercel)
 
+🔌 Extensions
+---
+- [Visual Studio Code](https://github.com/AgileEyes/integration-visual-studio-code)
+
 🤖 Bots
 ---
 - [Telegram](https://github.com/AgileEyes/bot-telegram)
