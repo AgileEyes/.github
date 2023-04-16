@@ -19,15 +19,13 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 ---
 - [AgileEyes](https://github.com/AgileEyes/com-agileeyes-app)
 
-🕸 Web Applications
+🔌 Integrations
 ---
 - [Vercel Integration](https://github.com/AgileEyes/integration-vercel)
-
-🔌 Extensions
----
-- [Visual Studio Code](https://github.com/AgileEyes/integration-visual-studio-code)
+- [Visual Studio Code Extension](https://github.com/AgileEyes/integration-visual-studio-code)
+- [ChatGPT Plugin](https://github.com/AgileEyes/integration-chatgpt)
 
 🤖 Bots
 ---
-- [Telegram](https://github.com/AgileEyes/bot-telegram)
-- [WhatsApp](https://github.com/AgileEyes/bot-whatsapp)
+- [Telegram Bot](https://github.com/AgileEyes/bot-telegram)
+- [WhatsApp Bot](https://github.com/AgileEyes/bot-whatsapp)
